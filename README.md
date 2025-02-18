@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shaik Rahil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **clone project**
+- 🔭 I’m currently working on ** Amazon clone project**
 
 - 🌱 I’m currently learning **Web development, MERN**
 
